@@ -59,7 +59,7 @@ For Web Application installation, please refer to [MejaBelajar-Web](https://gith
 
 ## API Documentation
 
-For API documentation, you can use the following Postman documentation link: [Postman Documentation](https://documenter.getpostman.com/view/33519756/2sA3Qv6q9k)
+For API documentation, you can use the following link: [Postman Documentation](https://documenter.getpostman.com/view/33519756/2sA3Qv6q9k)
 
 ## Demo
 
