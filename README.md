@@ -57,6 +57,10 @@ go run .
 
 For Web Application installation, please refer to [MejaBelajar-Web](https://github.com/Meja-Belajar/mejabelajar-web)
 
+## API Documentation
+
+For API documentation, you can use the following Postman documentation link: [Postman Documentation](https://documenter.getpostman.com/view/33519756/2sA3Qv6q9k)
+
 ## Demo
 
 Static deployment of this site available at [Here](https://meja-belajar.github.io/mejabelajar-web/)
